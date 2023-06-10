@@ -12,7 +12,7 @@ Firstly a window with a query appears.
 ![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/97590027-b0ae-4b1b-9874-c00d9feee7cc)
 
 
-Then input is required. (polish cities are recommended to insert because the polish site is used to search)
+Then input is required. (polish cities are recommended to insert because the polish site is used for searching)
 
 ![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/03830faa-924a-4100-823a-43abcf2f0497)
 
