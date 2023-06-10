@@ -24,6 +24,9 @@ With using sorting by latest offers
 Then it's searching for (and clicking) newest announcement skipping paid ones.
 voilà 
 
-![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/f45d1831-eb39-4cbb-9a52-6beceeea791b)
+#![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/f45d1831-eb39-4cbb-9a52-6beceeea791b)
+![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/4d30823c-d13c-4eaa-aa8e-a6524d9aa7ca)
+![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/1e909127-b744-48b6-996d-1fb2b4254bdd)
+
 
 
