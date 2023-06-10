@@ -16,7 +16,7 @@ Then input is required. (polish cities are recommended to insert because the pol
 
 ![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/03830faa-924a-4100-823a-43abcf2f0497)
 
-The cat in your area is searching! 
+The cat in your area is being searched! 
 With using sorting by latest offers
 
 ![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/07905b08-c380-4ea4-b869-d2ce37d71e82)
