@@ -46,6 +46,16 @@ class finder():
                 actions.click(sorting_option)
                 actions.perform()
                 break
-
+        time.sleep(4)
+        grid = driver.find_element(By.CSS_SELECTOR, "[data-testid=\"listing-grid\"]")
+        announcements = grid.find_elements(By.CSS_SELECTOR, "[data-cy=\"l-card\"]")
+        for announcement in announcements:
+                if(len(announcement.find_elements(By.CSS_SELECTOR, "[data-testid=\"adCard-featured\"]"))  > 0):
+                    continue
+                else:
+                    ann_to_click = announcement.find_element(By.CSS_SELECTOR, "[data-testid=\"location-date\"]")
+                    actions.click(ann_to_click)
+                    actions.perform()
+                    break
     def __init__(self, city):
         self.city = city
