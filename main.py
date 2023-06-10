@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter.ttk import *
 import tkinter as tk
 from typing import Self
-# pip3 install customtkinter
+# pip3 install customtkinter 
 import customtkinter
 from finder import finder
 

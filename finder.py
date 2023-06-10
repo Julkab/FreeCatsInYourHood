@@ -42,7 +42,7 @@ class finder():
         actions.perform()
         sorting_options = driver.find_elements(By.CSS_SELECTOR, "[data-testid=\"sorting-option\"]")
         for sorting_option in sorting_options:
-            if sorting_option.text == 'Najnowsze':
+            if 'Najnowsze' in sorting_option.text:
                 actions.click(sorting_option)
                 actions.perform()
                 break
