@@ -21,7 +21,9 @@ With using sorting by latest offers
 
 ![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/07905b08-c380-4ea4-b869-d2ce37d71e82)
 
-
+Then it's searching for (and clicking) newest announcement skipping paid ones.
 voilà 
 
 ![image](https://github.com/Julkab/FreeCatsInYourHood/assets/126502889/f45d1831-eb39-4cbb-9a52-6beceeea791b)
+
+
